@@ -16,7 +16,7 @@
 		4C60C3901C2AE3F800A49C86 /* twoTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C60C38F1C2AE3F800A49C86 /* twoTableViewTests.m */; };
 		4C60C39B1C2AE3F800A49C86 /* twoTableViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C60C39A1C2AE3F800A49C86 /* twoTableViewUITests.m */; };
 		4C60C3A91C2AE47F00A49C86 /* left.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4C60C3A81C2AE47F00A49C86 /* left.plist */; };
-		4CDDC3491C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */; };
+		4CDDC3491C2AFE920027AA1F /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CDDC3481C2AFE920027AA1F /* 123.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		4C60C39A1C2AE3F800A49C86 /* twoTableViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = twoTableViewUITests.m; sourceTree = "<group>"; };
 		4C60C39C1C2AE3F800A49C86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C60C3A81C2AE47F00A49C86 /* left.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = left.plist; sourceTree = "<group>"; };
-		4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2015-12-24 上午12.07.34.png"; sourceTree = "<group>"; };
+		4CDDC3481C2AFE920027AA1F /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +85,7 @@
 		4C60C3691C2AE3F800A49C86 = {
 			isa = PBXGroup;
 			children = (
+				4CDDC34A1C2B00DF0027AA1F /* img */,
 				4C60C3741C2AE3F800A49C86 /* twoTableView */,
 				4C60C38E1C2AE3F800A49C86 /* twoTableViewTests */,
 				4C60C3991C2AE3F800A49C86 /* twoTableViewUITests */,
@@ -106,7 +107,6 @@
 			isa = PBXGroup;
 			children = (
 				4C60C3A81C2AE47F00A49C86 /* left.plist */,
-				4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */,
 				4C60C3781C2AE3F800A49C86 /* AppDelegate.h */,
 				4C60C3791C2AE3F800A49C86 /* AppDelegate.m */,
 				4C60C37B1C2AE3F800A49C86 /* ViewController.h */,
@@ -144,6 +144,15 @@
 				4C60C39C1C2AE3F800A49C86 /* Info.plist */,
 			);
 			path = twoTableViewUITests;
+			sourceTree = "<group>";
+		};
+		4CDDC34A1C2B00DF0027AA1F /* img */ = {
+			isa = PBXGroup;
+			children = (
+				4CDDC3481C2AFE920027AA1F /* 123.png */,
+			);
+			name = img;
+			path = twoTableView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -253,7 +262,7 @@
 				4C60C3821C2AE3F800A49C86 /* Assets.xcassets in Resources */,
 				4C60C3801C2AE3F800A49C86 /* Main.storyboard in Resources */,
 				4C60C3A91C2AE47F00A49C86 /* left.plist in Resources */,
-				4CDDC3491C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png in Resources */,
+				4CDDC3491C2AFE920027AA1F /* 123.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
