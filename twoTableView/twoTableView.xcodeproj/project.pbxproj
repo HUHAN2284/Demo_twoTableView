@@ -16,6 +16,7 @@
 		4C60C3901C2AE3F800A49C86 /* twoTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C60C38F1C2AE3F800A49C86 /* twoTableViewTests.m */; };
 		4C60C39B1C2AE3F800A49C86 /* twoTableViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C60C39A1C2AE3F800A49C86 /* twoTableViewUITests.m */; };
 		4C60C3A91C2AE47F00A49C86 /* left.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4C60C3A81C2AE47F00A49C86 /* left.plist */; };
+		4CDDC3491C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4C60C39A1C2AE3F800A49C86 /* twoTableViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = twoTableViewUITests.m; sourceTree = "<group>"; };
 		4C60C39C1C2AE3F800A49C86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C60C3A81C2AE47F00A49C86 /* left.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = left.plist; sourceTree = "<group>"; };
+		4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2015-12-24 上午12.07.34.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				4C60C3A81C2AE47F00A49C86 /* left.plist */,
+				4CDDC3481C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png */,
 				4C60C3781C2AE3F800A49C86 /* AppDelegate.h */,
 				4C60C3791C2AE3F800A49C86 /* AppDelegate.m */,
 				4C60C37B1C2AE3F800A49C86 /* ViewController.h */,
@@ -250,6 +253,7 @@
 				4C60C3821C2AE3F800A49C86 /* Assets.xcassets in Resources */,
 				4C60C3801C2AE3F800A49C86 /* Main.storyboard in Resources */,
 				4C60C3A91C2AE47F00A49C86 /* left.plist in Resources */,
+				4CDDC3491C2AFE920027AA1F /* 屏幕快照 2015-12-24 上午12.07.34.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -500,6 +504,7 @@
 				4C60C3A11C2AE3F800A49C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C60C3A21C2AE3F800A49C86 /* Build configuration list for PBXNativeTarget "twoTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +513,7 @@
 				4C60C3A41C2AE3F800A49C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C60C3A51C2AE3F800A49C86 /* Build configuration list for PBXNativeTarget "twoTableViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +522,7 @@
 				4C60C3A71C2AE3F800A49C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

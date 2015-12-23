@@ -6,97 +6,97 @@
 	<array>
 		<dict>
 			<key>code</key>
-			<string>110101</string>
+			<string>001</string>
 			<key>name</key>
 			<string>东城区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110102</string>
+			<string>002</string>
 			<key>name</key>
 			<string>西城区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110105</string>
+			<string>003</string>
 			<key>name</key>
 			<string>朝阳区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110106</string>
+			<string>004</string>
 			<key>name</key>
 			<string>丰台区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110107</string>
+			<string>005</string>
 			<key>name</key>
 			<string>石景山区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110108</string>
+			<string>006</string>
 			<key>name</key>
 			<string>海淀区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110109</string>
+			<string>007</string>
 			<key>name</key>
 			<string>门头沟区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110111</string>
+			<string>008</string>
 			<key>name</key>
 			<string>房山区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110112</string>
+			<string>009</string>
 			<key>name</key>
 			<string>通州区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110113</string>
+			<string>010</string>
 			<key>name</key>
 			<string>顺义区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110114</string>
+			<string>011</string>
 			<key>name</key>
 			<string>昌平区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110115</string>
+			<string>012</string>
 			<key>name</key>
 			<string>大兴区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110116</string>
+			<string>013</string>
 			<key>name</key>
 			<string>怀柔区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110117</string>
+			<string>014</string>
 			<key>name</key>
 			<string>平谷区</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110228</string>
+			<string>015</string>
 			<key>name</key>
 			<string>密云县</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>110229</string>
+			<string>016</string>
 			<key>name</key>
 			<string>延庆县</string>
 		</dict>
