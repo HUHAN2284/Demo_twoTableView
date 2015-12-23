@@ -85,7 +85,6 @@
 		4C60C3691C2AE3F800A49C86 = {
 			isa = PBXGroup;
 			children = (
-				4CDDC34A1C2B00DF0027AA1F /* img */,
 				4C60C3741C2AE3F800A49C86 /* twoTableView */,
 				4C60C38E1C2AE3F800A49C86 /* twoTableViewTests */,
 				4C60C3991C2AE3F800A49C86 /* twoTableViewUITests */,
@@ -106,6 +105,7 @@
 		4C60C3741C2AE3F800A49C86 /* twoTableView */ = {
 			isa = PBXGroup;
 			children = (
+				4CDDC34A1C2B00DF0027AA1F /* img */,
 				4C60C3A81C2AE47F00A49C86 /* left.plist */,
 				4C60C3781C2AE3F800A49C86 /* AppDelegate.h */,
 				4C60C3791C2AE3F800A49C86 /* AppDelegate.m */,
@@ -152,7 +152,6 @@
 				4CDDC3481C2AFE920027AA1F /* 123.png */,
 			);
 			name = img;
-			path = twoTableView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
